@@ -1,0 +1,32 @@
+html {
+    margin-top: -15px;
+    background-color: rgba(248, 246, 242, 0.897);
+}
+
+body {
+    display: flex;
+    justify-content: center;
+}
+
+.mainForm {
+    text-align: center;
+}
+
+.inputLine {
+    margin: 18px;
+}
+
+.btn {
+    width: 249px;
+    height: 28px;
+    background-color: rgb(20, 160, 241);
+    border: none;
+    border-radius: 3px;
+}
+
+.inputLine input {
+    width: 240px;
+    height: 25px;
+    border: 2px solid rgb(189, 184, 184);
+    border-radius: 3px;
+}
